@@ -1,5 +1,5 @@
 import time
-from datetime import datetime as dt 
+from datetime import datetime as da 
 
 websites=["www.facebook.com","facebook.com","www.youtube.com","youtube.com"] 		#you can add any websies by adding inside the list. 
 local_host="127.0.0.1" 		#write your local host( you can find it inside "hosts" file).
